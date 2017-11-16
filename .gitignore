@@ -104,3 +104,6 @@ ENV/
 #custom data directory
 data/
 
+.gitignore
+
+Locus.ipynb
